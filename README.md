@@ -7,3 +7,4 @@
 5. Unique Paths in a Grid
 6. Valid Compressed String
 7. Number of Good Components
+8. Optimal Array
