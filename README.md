@@ -11,3 +11,4 @@
 9. Walls Coloring II
 10. Cutting Rectangles
 11. Best Node
+12. Avoid Explosion
