@@ -12,3 +12,4 @@
 10. Cutting Rectangles
 11. Best Node
 12. Avoid Explosion
+13. Find anagrams in linked list
