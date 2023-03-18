@@ -16,3 +16,4 @@
 14. Binary matrix having maximum number of 1s
 15. Second smallest number
 16. Number of Subarrays of 0's
+17. Median of the Subarrays
