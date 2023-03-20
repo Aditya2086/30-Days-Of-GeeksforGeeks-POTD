@@ -18,3 +18,4 @@
 16. Number of Subarrays of 0's
 17. Median of the Subarrays
 18. Distinct Difference
+19. Shortest XY distance in Grid
