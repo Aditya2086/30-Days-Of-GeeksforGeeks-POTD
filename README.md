@@ -22,3 +22,4 @@
 20. Taxi Booking
 21. String rp or pr
 22. BST Maximum Difference
+23. Remove and Reverse
