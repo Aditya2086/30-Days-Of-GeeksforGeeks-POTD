@@ -23,3 +23,4 @@
 21. String rp or pr
 22. BST Maximum Difference
 23. Remove and Reverse
+24. Redundant Parenthesis
