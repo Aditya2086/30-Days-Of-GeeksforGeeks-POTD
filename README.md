@@ -24,3 +24,4 @@
 22. BST Maximum Difference
 23. Remove and Reverse
 24. Redundant Parenthesis
+25. Frogs and Jumps
