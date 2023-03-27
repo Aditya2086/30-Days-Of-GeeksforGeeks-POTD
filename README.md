@@ -25,3 +25,4 @@
 23. Remove and Reverse
 24. Redundant Parenthesis
 25. Frogs and Jumps
+26. Divide in Incremental Groups
