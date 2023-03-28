@@ -39,7 +39,7 @@ Instructions -
     3. Every chocolate in shop is arranged in increasing order
             i.e. shop.get(i) <= shop.get(i + 1) for all 0 <= i < n - 1
 */
-class Solution{
+/*class Solution{
     public:
     Shop shop;
     Solution(Shop s)
