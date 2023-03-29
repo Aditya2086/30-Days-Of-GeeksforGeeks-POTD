@@ -27,3 +27,4 @@
 25. Frogs and Jumps
 26. Divide in Incremental Groups
 27. Shy Geek
+28. Count The Substrings
